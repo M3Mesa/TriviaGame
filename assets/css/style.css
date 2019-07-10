@@ -1,0 +1,17 @@
+/* general */
+
+body {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 12px;
+  }
+    
+  #logo {
+      float: center;
+  }
+
+    #subwrapper {
+    float: left;
+    width: 80%; 
+    padding: 20px;
+
+  }
